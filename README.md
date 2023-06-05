@@ -1,6 +1,7 @@
 # pms-project
-This is an microservices application 
-For pensioner details microservice
+This is an microservices application.
+
+For pensioner details microservice:
 
 To run on local host url-  http://localhost:8081
 To run hello method-  http://localhost:8081/details/
@@ -10,7 +11,7 @@ To get pensioner by aadharNo-   http://localhost:8081/details/get/4326432
 To update pensioner detail by aadharNo- http://localhost:8081/details/update/4326432
 To delete pensioner detail by aadharNo- http://localhost:8081/details/delete/4326432
 
-For process pension microservice
+For process pension microservice:
 
 To run on local host url-  http://localhost:8080
 To run hello method-  	   http://localhost:8080/pension/
